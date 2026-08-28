@@ -19,7 +19,7 @@
 
 Contáctame 📲:
 
-<a href="https://www.instagram.com/soyjohangalindo/?hl=es"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" /></a><a href="mailto:galindoacosta3@gmail.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png" /></a><a href="https://wa.me/message/PAVCWB7U6GPSP1"><img src="https://img.icons8.com/fluency/48/000000/whatsapp.png" /></a><br>
+<a href="https://www.instagram.com/soyjohangalindo/?hl=es"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" /></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=galindoacosta3@gmail.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png" /></a><a href="https://wa.me/message/PAVCWB7U6GPSP1"><img src="https://img.icons8.com/fluency/48/000000/whatsapp.png" /></a><br>
 
 <h2 align = "center">
   
